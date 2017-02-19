@@ -1,1 +1,1 @@
-# english-to-nepali-using-google-api
+# translate english to nepali using api
